@@ -12,11 +12,11 @@ Features
 
 Download
 
-Download the latest version from the "Releases" (../../releases) page.
+Download the latest version from the "Releases" page.
 
 Installation
 
-1. Open the "Releases" (../../releases) page.
+1. Open the "Releases" page.
 2. Download the latest NetScope executable.
 3. Run the downloaded ".exe" file.
 
