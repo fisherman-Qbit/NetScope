@@ -1,0 +1,87 @@
+NetScope License
+
+Version 1.0 — Based on the Fisherman License (FL-1.0)
+
+Copyright © 2026 Fisherman-Qbit. All rights reserved.
+
+1. Purpose and Scope
+
+This License governs the use, reproduction, modification, and redistribution of NetScope (the "Software"), including its executable binaries and any accompanying materials owned by the copyright holder.
+
+This License is derived from the principles of the Fisherman License (FL-1.0) and is intended specifically for the NetScope project.
+
+2. Grant of Permission
+
+Subject to compliance with this License, permission is granted to use, reproduce, modify, and redistribute the Software for personal, educational, and commercial purposes.
+
+This permission does not transfer ownership of the Software or its intellectual property rights.
+
+3. Mandatory Attribution
+
+Attribution to the original author is a mandatory condition of all permissions granted under this License.
+
+Any use, incorporation, modification, or redistribution of the Software in another project must include clear and reasonably accessible attribution containing:
+
+- Project: NetScope
+- Original Author: Fisherman-Qbit
+- Version Used: The specific version of NetScope used
+- Original Repository: https://github.com/Fisherman-Qbit/NetScope
+
+Attribution must appear in the project's documentation, credits, acknowledgments, or another reasonably visible location.
+
+The attribution and copyright notices must not be removed, obscured, or altered in a manner that misrepresents the original authorship of the Software.
+
+4. Redistribution
+
+Redistribution of the Software is permitted only if:
+
+1. The original copyright notice and this License are included with the redistributed Software.
+2. The attribution requirements in Section 3 are satisfied.
+3. Modified versions are clearly identified as modified and are not misrepresented as official releases.
+4. No endorsement, sponsorship, or affiliation with the original author is claimed without prior written permission.
+
+5. Modifications and Derivative Works
+
+Modification and incorporation of the Software into other projects are permitted under the conditions of this License.
+
+The original author must remain credited for the original Software. This requirement does not imply authorship of modifications made by others.
+
+6. Third-Party Components
+
+This License applies only to components that the copyright holder has the legal right to license.
+
+Third-party libraries, assets, and other components remain subject to their respective licenses and terms. Nothing in this License overrides applicable third-party rights.
+
+7. Termination
+
+Permissions granted under this License may terminate if a recipient materially violates its terms, subject to applicable law and any applicable rights to remedy the violation.
+
+Upon termination, activities no longer authorized under this License must cease.
+
+8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, AVAILABLE, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Nothing in this License excludes or limits liability where such exclusion or limitation is prohibited by law.
+
+10. Governing Principles
+
+This License is interpreted subject to applicable copyright law and other mandatory legal requirements. Any provision that is unenforceable under applicable law shall be limited to the extent necessary, without invalidating the remaining provisions.
+
+11. License Identification
+
+The name of this license is NetScope License, Version 1.0.
+
+It is based on the Fisherman License (FL-1.0) and applies to NetScope when distributed with or explicitly identified as being governed by this License.
+
+---
+
+NetScope License v1.0
+Original Author: Fisherman-Qbit
+Copyright Year: 2026
