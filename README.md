@@ -15,6 +15,7 @@ NetScope retrieves network-related information and displays the results in a sim
 
 Features
 
+
 - Network information lookup
 - Simple and lightweight interface
 - No account or registration required
@@ -27,7 +28,7 @@ Installation
 
 1. Open the "Releases" page.
 2. Download the latest NetScope executable.
-3. Run the downloaded ".exe" file.
+3. Run the downloaded ".zip" file.
 
 If Windows displays a security warning, verify that the file came from the official NetScope repository before proceeding.
 
@@ -76,7 +77,7 @@ NetScope اطلاعات مرتبط با شبکه را دریافت می‌کند
 
 ۲. آخرین نسخه فایل اجرایی NetScope را دانلود کنید.
 
-۳. فایل ".exe" دانلودشده را اجرا کنید.
+۳. فایل ".zip" دانلودشده را اجرا کنید.
 
 اگر ویندوز هشدار امنیتی نمایش داد، پیش از ادامه مطمئن شوید که فایل را از مخزن رسمی NetScope دریافت کرده‌اید.
 
