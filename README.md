@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="logo.png" alt="NetScope Logo" width="160">
+</p>
+
+<h1 align="center">NetScope</h1>
+
+<p align="center">
+  A lightweight network information lookup tool for Windows.
+</p>
 NetScope
 
 A lightweight network information lookup tool for Windows.
