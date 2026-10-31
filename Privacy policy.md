@@ -1,48 +1,108 @@
-Privacy Policy — NetScope
+NetScope Privacy Policy
 
-Last updated: October 29, 2026
+Last Updated: October 31, 2026
 
-1. Overview
+1. Introduction
 
-NetScope is a network utility developed by Fisherman-Qbit.
+NetScope is a lightweight Windows application developed by Fisherman-Qbit.
 
-User privacy is an important consideration in the design of this application.
+This Privacy Policy explains how NetScope handles information when you use the application.
 
-2. Data Collection
+Our goal is to minimize data collection, keep application data on the user's device, and provide transparency about network requests.
 
-NetScope does not collect personal information or usage analytics.
+2. Information We Collect
 
-The application does not operate a telemetry or tracking system.
+NetScope does not intentionally collect personal information for advertising, profiling, or user tracking.
 
-3. Data Transmission
+The application does not intentionally transmit the following information to the developer's servers:
 
-NetScope does not transmit user data to the developer or to external servers for tracking or analytics purposes.
+- Application settings.
+- Local error logs.
+- User activity or usage analytics.
+- Personal files or documents.
 
-Network activity initiated by the application to perform its intended functions is separate from data collection and analytics.
+3. Network Requests and IP Information
 
-4. Local Network Information
+NetScope connects to external IP information and geolocation providers to retrieve information such as:
 
-Depending on its features, NetScope may inspect or display technical information about the local network and connected devices to provide its functionality.
+- Public IPv4 address.
+- Public IPv6 address.
+- IP geolocation.
+- Country identification.
 
-Accessing this information does not, by itself, mean that the information is collected or transmitted to an external party.
+When these requests are made, the selected providers may receive technical information associated with the connection, including the user's public IP address.
+
+These requests are necessary for the application's core functionality.
+
+The privacy practices of external providers are governed by their own privacy policies. NetScope does not control how these third-party services process or retain connection information.
+
+4. Local Data Storage
+
+NetScope stores certain application data locally on the user's Windows device.
+
+This may include:
+
+- Application preferences and settings.
+- Local error logs.
+- Other information required for application functionality.
+
+This information is not intentionally uploaded to the developer's servers.
+
+Users are responsible for protecting access to their own devices and locally stored files.
 
 5. Third-Party Services
 
-NetScope does not intentionally send personal information to third-party analytics or tracking services.
+NetScope may use external services to retrieve IP information, geolocation data, or check for application updates.
 
-Any third-party components included in future versions should be reviewed and documented where relevant.
+These services may process technical connection information according to their own privacy policies.
 
-6. Policy Updates
+NetScope is not responsible for the privacy practices, availability, or data handling policies of third-party providers.
 
-This policy may be updated when NetScope's functionality or data-handling practices change. The latest version will be published in the project repository.
+6. Updates
 
-7. Contact
+NetScope can check whether a newer version is available.
 
-For questions regarding this policy, contact the developer through the project repository:
+When checking for updates, the application may communicate with external services, such as GitHub, to retrieve release information.
 
-https://github.com/Fisherman-Qbit/NetScope
+Downloading and installing updates is currently a manual process.
+
+7. Background Monitoring
+
+NetScope can continue monitoring public IP and country changes while running in the Windows system tray.
+
+Background monitoring requires network requests to retrieve updated IP information.
+
+Users can pause or resume monitoring through the application.
+
+8. Data Security
+
+NetScope is designed to minimize the amount of information stored and transmitted.
+
+However, no software or internet communication method can guarantee absolute security.
+
+Users should keep their operating system and application updated.
+
+9. Children's Privacy
+
+NetScope does not intentionally collect personal information from children or other users.
+
+The application is not designed to create user accounts or maintain personal profiles.
+
+10. Changes to This Policy
+
+This Privacy Policy may be updated as NetScope evolves.
+
+Any changes will be published in the official GitHub repository.
+
+11. Contact
+
+For privacy-related questions, concerns, or requests, please open an issue in the official repository:
+
+https://github.com/fisherman-Qbit/NetScope
 
 ---
 
-Project: NetScope
-Developer: Fisherman-Qbit
+NetScope
+Developed by Fisherman-Qbit
+
+Network Visibility. Without Unnecessary Overhead.
